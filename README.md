@@ -1,9 +1,5 @@
 ### Hi everyone! With me, success is in your hands 👋
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/130412496?v=4">
-</p>
-
 <h2 align="center">Who is Me?</h2>
 <p>
 Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
