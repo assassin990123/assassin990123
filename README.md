@@ -1,7 +1,7 @@
 ### Hi everyone! With me, success is in your hands 👋
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/81801796?s=48&v=4">
+<img src="https://avatars.githubusercontent.com/u/130412496?v=4">
 </p>
 
 <h2 align="center">Who is Me?</h2>
@@ -16,10 +16,7 @@ Passionate Full-stack Developer specialized in scalable web & mobile development
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=assassin990123&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 <p align="center">
-  <img alt="assassin990123's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=assassin990123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
-
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
 </p>
 
 ### Skills
